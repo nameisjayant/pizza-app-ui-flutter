@@ -2,7 +2,7 @@
 
 A simple pizza app ui with flutter 😍
 
-#### Screenshots
+### Screenshots
 
 <p align="center">
 <img src="screenshots/one.png" height="500">
